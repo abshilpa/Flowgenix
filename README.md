@@ -26,7 +26,7 @@ Share progress, code, and insights as I keep learning
 
 Python 🐍
 
-Autogen / n8n / automation tools ⚙️
+AutoGen / n8n / automation tools ⚙️
 
 OpenAI APIs 🤖
 
