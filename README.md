@@ -1,6 +1,4 @@
-# Flowgenix
-generating smooth workflows
-Flowgenix – Generating Smooth Workflows 🚀
+# Flowgenix – Generating Smooth Workflows 🚀
 
 Welcome to Flowgenix – my journey into building AI-powered agents that solve real-world problems and streamline business processes.
 
